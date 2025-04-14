@@ -30,6 +30,7 @@ A realtime stock tracking app done with Next.js 15, TypeScript & Tailwind.
    npm run build
    npm run start
    ```
+4. Since the free API key has limit of 25 requests per day I couldn't record a proper video. Please feel free to change the `NEXT_PUBLIC_ALPHA_VANTAGE_API_KEY` variable value to your key to test, thank you for understanding.
 
 ## Project Structure
 
