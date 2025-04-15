@@ -4,14 +4,13 @@ A realtime stock tracking app done with Next.js 15, TypeScript & Tailwind.
 
 ## Features
 
-- 🔍 Search stocks by name or ticker symbol
-- 📈 View live stock price updates
-- 📊 Analyze historical price trends
-- ⭐ Manage a personal watchlist
+- 🔍 Searching stocks by name or ticker symbol
+- 📊 Analyzing historical price trends
+- ⭐ Managing a watchlist
 
 ## Tech Stack
 
-- **Framework**: Next.js 15 (React 19, App Router, RSC support)
+- **Framework**: Next.js 15 (React 19 with RSC support)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **State Management**: Redux Toolkit
@@ -30,7 +29,6 @@ A realtime stock tracking app done with Next.js 15, TypeScript & Tailwind.
    npm run build
    npm run start
    ```
-4. Since the free API key has limit of 25 requests per day I couldn't record a proper video. Please feel free to change the `NEXT_PUBLIC_ALPHA_VANTAGE_API_KEY` variable value to your key to test, thank you for understanding.
 
 ## Project Structure
 
